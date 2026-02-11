@@ -388,7 +388,8 @@
     align-items: center;
     justify-content: center;
     gap: 6px;
-    padding-left: 24px; /* 48px handle + 4px offset + 4px gap - Used to be 56px */
+    padding-left: 56px; /* 48px handle + 4px offset + 4px gap - Used to be 56px */
+    padding-right: 56px;
     font-size: 0.9rem;
     font-weight: 600;
     color: #6b7280;
