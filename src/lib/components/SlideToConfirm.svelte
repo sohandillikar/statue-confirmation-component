@@ -12,7 +12,7 @@
     difficulty = "easy",
     label = "Slide to confirm",
     successLabel = "Confirmed!",
-    timeLimit = 3000,
+    timeLimit = 1000,
     resetDelay = 1500,
     onconfirm = () => {},
   } = $props();

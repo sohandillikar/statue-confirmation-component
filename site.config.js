@@ -22,7 +22,8 @@ export const siteConfig = {
     // Default navigation items (add cta: true for CTA button style)
     defaultNavItems: [
       { title: 'Home', url: '/' },
-      { title: 'About', url: '/about' }
+      { title: 'About', url: '/about' },
+      { title: 'Demo', url: '/demo' }
     ],
 
     // Hide these directories from navbar (by folder name content/foldername)

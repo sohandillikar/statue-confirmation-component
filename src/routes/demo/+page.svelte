@@ -88,7 +88,6 @@
         <div class="slider-area">
           <SlideToConfirm
             difficulty={diff.key}
-            timeLimit={1000}
             onconfirm={() => handleConfirm(diff.key)}
           />
         </div>
@@ -162,7 +161,7 @@
           </svg>
           <p class="scenario-success-text">
             You've successfully invested $1 billion dollars into a shitty meme
-            coin like a moron.
+            coin, you moron.
           </p>
         </div>
       {/if}
